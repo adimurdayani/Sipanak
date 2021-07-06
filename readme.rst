@@ -42,9 +42,11 @@ Installation
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
-Export file db_sipa.sql ke xampp
-Kemudian extrak file yang sudah di download
-Setting config dan sesuaikan urlnya dengan nama folder yang ada
+Export file db_sipa.sql ke xampp.
+
+Kemudian extrak file yang sudah di download.
+
+Setting config dan sesuaikan urlnya dengan nama folder yang ada.
 
 
 *******
