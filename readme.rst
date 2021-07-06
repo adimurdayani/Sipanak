@@ -43,8 +43,8 @@ Please see the `installation section <https://codeigniter.com/user_guide/install
 of the CodeIgniter User Guide.
 
 Export file db_sipa.sql ke xampp
-kemudian extrak file yang sudah di download
-setting config dan sesuaikan urlnya dengan nama folder yang ada
+Kemudian extrak file yang sudah di download
+Setting config dan sesuaikan urlnya dengan nama folder yang ada
 
 
 *******
